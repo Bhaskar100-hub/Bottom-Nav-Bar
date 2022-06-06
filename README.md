@@ -1,16 +1,19 @@
-# SmoothBottomBar
+# Smooth Bottom Navigation Bar
 
+<!--- 
 A lightweight Android material bottom navigation bar library
 
 [![](https://jitpack.io/v/ibrahimsn98/SmoothBottomBar.svg)](https://jitpack.io/#ibrahimsn98/SmoothBottomBar)
 [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
 [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-SmoothBottomBar-green.svg?style=flat )]( https://android-arsenal.com/details/1/7932 )
 [![Android Weekly](https://androidweekly.net/issues/issue-385/badge)](https://androidweekly.net/issues/issue-385)
+-->
 
 ## GIF
 
 <img src="https://cdn.dribbble.com/users/1015191/screenshots/6251784/snapp---animation.gif"/>
 
+<!--
 ## Design Credits
 
 All design and inspiration credits belong to [Alejandro Ausejo](https://dribbble.com/shots/6251784-Navigation-Menu-Animation).
@@ -437,3 +440,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+-->
